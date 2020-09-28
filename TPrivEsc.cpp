@@ -13,7 +13,7 @@ int main (int argc, LPCSTR argv[])
     DWORD pid = atoi (argv[1]); 
     if (argc != 2)
     {   printf ("==============================");
-        printf ("\nUsage :: Tenum.exe <PID>\n");
+        printf ("\nUsage :: TPrivEsc <PID>\n");
         printf ("==============================\n");
         return 3;
     }
