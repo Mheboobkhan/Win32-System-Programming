@@ -71,3 +71,4 @@ CloseHandle(pNewToken);
 CloseHandle(pToken);
 return 0;
 }
+//---//
