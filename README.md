@@ -1,4 +1,3 @@
 # Win32-System-Programming
-This is beta project to understand windows api programming with C++
-
+This repo is for understanding c++ windwos programming to understand various exploits or malwares.
 All code is for only educational purpose, any misuse is not responsiblity of the author.
